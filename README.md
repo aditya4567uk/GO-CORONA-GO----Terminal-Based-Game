@@ -19,5 +19,4 @@ This a CLI based game written in C++ lang , using DEVC++ IDE , you need to compl
 ### ---->>GAME OVER WINDOW
 <p align="center"><img src="pic5.JPG"/></p>
 
-### ---->>OVERVIEW OF CODE IN IDE
-<p align="center"><img src="pic1.JPG"/></p>
+
